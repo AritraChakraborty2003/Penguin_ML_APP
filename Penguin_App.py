@@ -86,8 +86,7 @@ if st.button('Predict'):
  if classifer=="SupportVectorClassifier":
     penguins_spicies_type=prediction(svc_model,island,b_len,b_dep,f_len,b_mass_g,sex)
     st.write("The Species of penguins are:- ",penguins_spicies_type)
-    val=svc_score
-    st.write("Accuracy of the model is:- ",val)
+    st.write("Accuracy of the model is:- ",svc_score)
     	
  elif classifer=="LogisticRegression":
     penguins_spicies_type=prediction(log_reg,island,b_len,b_dep,f_len,b_mass_g,sex)
