@@ -4,5 +4,5 @@
 <br>
 <p align="center">
 <br>
-  https://aritrachakraborty2003-penguin-ml-app-penguin-app-0yciz3.streamlitapp.com/
+  https://aritrachakraborty2003-penguin-ml-app-penguin-app-verdxn.streamlitapp.com/
 </p>
